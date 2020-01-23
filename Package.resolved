@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "InputBarAccessoryView",
+        "repositoryURL": "https://github.com/connectiktech/InputBarAccessoryView",
+        "state": {
+          "branch": "SwiftPackage",
+          "revision": "a3ac224dbb300a631fd815e0d9cf23b50a3d9bea",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
